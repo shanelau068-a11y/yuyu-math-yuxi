@@ -1,5 +1,10 @@
 # 语语预习家 · 四年级数学
 
+<!-- AI-HANDOFF-ENTRY -->
+**AI接手与运行：**[从这里开始](AI_START_HERE.md) · [安装/启动/数据说明](docs/AI_HANDOFF.md) · [实际验证结果](docs/VERIFICATION.md)。
+<!-- /AI-HANDOFF-ENTRY -->
+
+
 给语语（约 9 岁）和家长用的暑假 / 新学期预习小站：人教版 2024 四年级上册数学。手机打开就能用。每次大约 10–15 分钟。先看「学什么」，再「看例题」，然后「练一练」。没有账号，进度只存在这台手机的浏览器里。
 
 在线地址：<https://shanelau068-a11y.github.io/yuyu-math-yuxi/>

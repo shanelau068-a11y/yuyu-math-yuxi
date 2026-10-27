@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-27",
+  "repository": "yuyu-math-yuxi",
+  "defaultBranch": "main",
+  "visibility": "public",
+  "sourceCommit": "6539ead05c0dd2dca27c76e99e934613779f604d",
+  "status": "已通过所列检查",
+  "checks": [
+    {
+      "command": "HTTP GET index.html and local src/href resources under repository subpath",
+      "result": "通过",
+      "resources": 5
+    }
+  ],
+  "scope": [],
+  "syntax": {
+    "javascript": 3,
+    "python": 0,
+    "powershell": 0
+  },
+  "runtime": {
+    "node": "24.12.0",
+    "python": "3.12.14",
+    "os": "Windows"
+  }
+}
